@@ -30,7 +30,7 @@ DEBUG = True
 ALLOWED_HOSTS = ['*']
 
 CSRF_TRUSTED_ORIGINS = [
-    'https://bancomeet.azurewebsites.net'
+    'https://backmeet.azurewebsites.net'
 ]
 
 # Application definition
